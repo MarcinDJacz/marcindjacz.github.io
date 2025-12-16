@@ -1,3 +1,2 @@
-Hello!
-I'm Marcin and I lern Python, JS, HTML and CSS. I'm focus on creating my own websites, but also creating small browser extensions and tools.
+Hello! I'm Marcin, and I’m learning Python, JavaScript, HTML, and CSS. I focus on creating my own websites, as well as small browser extensions and web tools.
 
