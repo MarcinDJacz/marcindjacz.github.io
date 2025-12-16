@@ -18,6 +18,9 @@
   </style>
 </head>
 <body>
+  <div style="background: #ffeb3b; color: #333; padding: 10px; text-align: center; font-weight: bold;">
+  ⚠️ This site is currently under development. Content may change.
+</div>
   <h1>Hello! I'm Marcin</h1>
   <p>I'm learning Python, JavaScript, HTML, and CSS. I focus on creating my own websites, as well as small browser extensions and web tools to make online tasks faster and more enjoyable.</p>
   
