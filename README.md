@@ -39,6 +39,11 @@ Info Panel: Access settings, help, and overview of panels.</p>
   
   <h2>Web Tools & Sites</h2>
   <p>Tools and websites for automating and optimizing various tasks online, from data processing to interactive mini-applications. My goal is to make useful tools accessible and easy to use.</p>
+  <ul>
+    <li>
+      A foreign language learning service with many additional functionalities [under development]
+    </li>
+  </ul>
   
   <h2>Support My Work</h2>
   <p>All my tools are completely free to use. If you find them helpful, you can support me voluntarily by buying me a coffee. Your support helps me continue creating more extensions and web tools.</p>
