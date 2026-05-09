@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -26,6 +25,7 @@
   
   <h2>Browser Extensions</h2>
   <p>Small extensions designed to make certain online tasks quicker, easier, and more enjoyable. I enjoy creating practical solutions without automating gameplay or violating site rules.</p>
+  <ul><li><a href="https://addons.mozilla.org/pl/firefox/addon/travian-complete-extension/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search">Travian Complete Extension</a></li></ul>
   
   <h2>Web Tools & Sites</h2>
   <p>Tools and websites for automating and optimizing various tasks online, from data processing to interactive mini-applications. My goal is to make useful tools accessible and easy to use.</p>
