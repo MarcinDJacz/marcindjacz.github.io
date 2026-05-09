@@ -26,6 +26,8 @@
   <h2>Browser Extensions</h2>
   <p>Small extensions designed to make certain online tasks quicker, easier, and more enjoyable. I enjoy creating practical solutions without automating gameplay or violating site rules.</p>
   <ul><li><a href="https://addons.mozilla.org/pl/firefox/addon/travian-complete-extension/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search">Travian Complete Extension</a></li></ul>
+  <img width="1894" height="879" alt="obraz" src="https://github.com/user-attachments/assets/f6f4b2af-e9a6-4d98-8460-61ab88c12eaf" />
+
   
   <h2>Web Tools & Sites</h2>
   <p>Tools and websites for automating and optimizing various tasks online, from data processing to interactive mini-applications. My goal is to make useful tools accessible and easy to use.</p>
@@ -34,7 +36,7 @@
   <p>All my tools are completely free to use. If you find them helpful, you can support me voluntarily by buying me a coffee. Your support helps me continue creating more extensions and web tools.</p>
   
   <div class="bmc">
-    <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <a href="https://www.buymeacoffee.com/marcin_djaczuk" target="_blank">
       ☕ Buy me a coffee
     </a>
   </div>
