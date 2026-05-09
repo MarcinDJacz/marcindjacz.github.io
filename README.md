@@ -47,7 +47,9 @@
       A foreign language learning service with many additional functionalities [under development]
     </li>
   </ul>
-  
+
+<h2>Education</h2>
+  <p>During the Python web development course</p>
   <h2>Support My Work</h2>
   <p>All my tools are completely free to use. If you find them helpful, you can support me voluntarily by buying me a coffee. Your support helps me continue creating more extensions and web tools.</p>
   
