@@ -33,7 +33,8 @@ Notes Panel: Store goals, building queues, and defense plans for each village.
 Calculator Panel: Convert animal defense values into selected units.
 Quick Links: Manage and access frequently used links quickly.
 Info Panel: Access settings, help, and overview of panels.</p>
-  <img width="1894" height="879" alt="obraz" src="https://github.com/user-attachments/assets/f6f4b2af-e9a6-4d98-8460-61ab88c12eaf" /></li></ul>
+  <img width="1000" alt="Travian Complete Extension" src="https://github.com/user-attachments/assets/f6f4b2af-e9a6-4d98-8460-61ab88c12eaf" />
+  </li></ul>
 
   
   <h2>Web Tools & Sites</h2>
