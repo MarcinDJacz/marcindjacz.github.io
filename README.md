@@ -26,13 +26,16 @@
   <h2>Browser Extensions</h2>
   <p>Small extensions designed to make certain online tasks quicker, easier, and more enjoyable. I enjoy creating practical solutions without automating gameplay or violating site rules.</p>
   <ul><li><a href="https://addons.mozilla.org/pl/firefox/addon/travian-complete-extension/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search">Travian Complete Extension</a>
-  <p>This extension enhances the Travian game experience by providing a set of interactive panels.
-Animals Finder: Detects elephants and crocodiles on the map, with a mini-map of scanned areas.
-Resources Panel: Calculates total resources from recently visited villages.
-Notes Panel: Store goals, building queues, and defense plans for each village.
-Calculator Panel: Convert animal defense values into selected units.
-Quick Links: Manage and access frequently used links quickly.
-Info Panel: Access settings, help, and overview of panels.</p>
+  <p>
+    This extension enhances the Travian game experience by providing a set of interactive panels.
+    <ul>
+      <li>Animals Finder: Detects elephants and crocodiles on the map, with a mini-map of scanned areas.</li>
+      <li>Resources Panel: Calculates total resources from recently visited villages.</li>
+      <li>Notes Panel: Store goals, building queues, and defense plans for each village.</li>
+      <li>Calculator Panel: Convert animal defense values into selected units.</li>
+      <li>Quick Links: Manage and access frequently used links quickly.</li>
+      <li>Info Panel: Access settings, help, and overview of panels.</li>
+    </p>
   <img width="1000" alt="Travian Complete Extension" src="https://github.com/user-attachments/assets/f6f4b2af-e9a6-4d98-8460-61ab88c12eaf" />
   </li></ul>
 
